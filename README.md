@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pralhad Chaskar (@c0d3xpl0it)
 - 👀 I’m interested in AI Security
-- 🌱 I’m currently learning Artificial Intelligence, GenAI, NLP and LLM
+- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, GenAI, NLP and LLM
 - 📫 How to reach me : 
 [Twitter](https://twitter.com/c0d3xpl0it)
 and 
